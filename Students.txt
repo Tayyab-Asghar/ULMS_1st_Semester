@@ -1,0 +1,8 @@
+2016-CS-565,Muhammad Ali Ahmed
+CS201,CS301,CS567,CS123
+2018-CS-987,Muhammad Aslam
+CS564
+2018-CS-982,Muhammad Ali
+
+2019-CS-321,Ali Ahsan
+CS543,CD123
